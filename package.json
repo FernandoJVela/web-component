@@ -1,0 +1,25 @@
+{
+  "name": "web-component",
+  "version": "1.0.0",
+  "description": "My first web component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FernandoJVela/web-component.git"
+  },
+  "keywords": [
+    "web",
+    "component",
+    "javascript",
+    "vanilla"
+  ],
+  "author": "Fernando Vela [fer.velav@gmail.com]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FernandoJVela/web-component/issues"
+  },
+  "homepage": "https://github.com/FernandoJVela/web-component#readme"
+}

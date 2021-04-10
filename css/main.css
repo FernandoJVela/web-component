@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #2d3a6d;
+    font-size: 62.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+product-card{
+    --main-color: #e63d37;
+    --secondary-color: #d31a13;
+}
